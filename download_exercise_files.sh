@@ -1,0 +1,1 @@
+wget http://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1617/movies.txt -O ./exercise_files/movies.txt
