@@ -19,6 +19,8 @@ Here's a breakdown of the things I learned from the lectures.
 
  - How inverted indexes work
  - Understanding Zipf's law
+ - How to create an inverted index
+ - How to use the *and* operation on multiple keywords
 
 ## License
 
