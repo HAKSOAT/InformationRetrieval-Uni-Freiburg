@@ -21,6 +21,15 @@ Here's a breakdown of the things I learned from the lectures.
  - Understanding Zipf's law
  - How to create an inverted index
  - How to use the *and* operation on multiple keywords
+ 
+## Lecture 2
+
+[This lecture](https://www.youtube.com/watch?v=bCVPnnWqY8s) teaches:
+
+ - How to rank documents
+ - Explains the Term Frequency, Document Frequency, TF.IDF, BM25 and how they can help with ranking
+ - How to evaluate search engines
+ - Explains the Precision, Average Precision, Mean Precisions, Discounted Cumulative Gain and Binary Pref methods of evaluating search engines
 
 ## License
 
